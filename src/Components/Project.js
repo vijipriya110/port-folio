@@ -8,17 +8,17 @@ function Project() {
     {
       projectImage: proImg1,
       description: 'These are some of my best projects. I have built these with React, MERN and vanilla CSS. Check them out.',
-      link:'https://github.com/vijipriya110/bike-rental-front-end'
+      link:'https://e-com-front-end.netlify.app/'
     },
     {
       projectImage: proImg2,
       description: 'As the lead developer for my inaugural full-stack project, My skills in both front-end and back-end technologies, I successfully implemented CRUD (Create, Read, Update, Delete) operations to user experience.',
-      link:'https://github.com/vijipriya110/bike-rental-front-end'
+      link:'https://bikerentalportal.netlify.app/'
     },
     {
       projectImage: proImg3,
       description: 'A form validation website that showcases my journey into the world of web development. Utilizing HTML, CSS, JavaScript and React, The result is a dynamic and responsive website',
-      link:'https://github.com/vijipriya110/bike-rental-front-end'
+      link:'https://webcode-first.netlify.app/'
     }
   ]
   return (

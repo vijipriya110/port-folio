@@ -3,7 +3,7 @@ import resImg from '../assets/resume.jpg'
 
 function Resume() {
   const config = {
-    link : 'https://www.africau.edu/images/default/sample.pdf'
+    link : 'https://drive.google.com/file/d/1gRCdZuQ55qQHhz9mnkL_WDmBr9L_N-8r/view?usp=drive_link'
   }
   return (
     <section id='resume' className='flex flex-col md:flex-row bg-secondary px-5 '>
