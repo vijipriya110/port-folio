@@ -3,7 +3,7 @@ import React from 'react'
 function Contact() {
   const config = {
     email:'vijipriya110@gmail.com',
-    phone:'+91 9876543219',
+    phone:'+91 9751192462',
     link : 'https://drive.google.com/file/d/1gRCdZuQ55qQHhz9mnkL_WDmBr9L_N-8r/view?usp=drive_link'
   }
 
